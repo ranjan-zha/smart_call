@@ -1,0 +1,47 @@
+[
+    {
+        "dateTime": "Jun 7, 2022 6:38:52 PM",
+        "duration": 0,
+        "name": "Nihal",
+        "phoneNumber": "+919689667708",
+        "rawType": 2,
+        "timestamp": "1654607332719",
+        "type": "OUTGOING"
+    },
+    {
+        "dateTime": "Jun 7, 2022 6:38:12 PM",
+        "duration": 12,
+        "name": "Dipk Bbai",
+        "phoneNumber": "9029413971",
+        "rawType": 2,
+        "timestamp": "1654607292934",
+        "type": "OUTGOING"
+    },
+    {
+        "dateTime": "Jun 7, 2022 6:37:55 PM",
+        "duration": 4,
+        "name": "Dadi",
+        "phoneNumber": "07765865155",
+        "rawType": 2,
+        "timestamp": "1654607275334",
+        "type": "OUTGOING"
+    },
+    {
+        "dateTime": "Jun 7, 2022 5:45:49 PM",
+        "duration": 0,
+        "name": null,
+        "phoneNumber": "918605615314",
+        "rawType": 2,
+        "timestamp": "1654604149841",
+        "type": "OUTGOING"
+    },
+    {
+        "dateTime": "Jun 7, 2022 5:44:33 PM",
+        "duration": 0,
+        "name": null,
+        "phoneNumber": "918605615314",
+        "rawType": 2,
+        "timestamp": "1654604073807",
+        "type": "OUTGOING"
+    }
+]
